@@ -1,0 +1,3 @@
+Mis notas sobre Git:
+Git es un sistema de control de versiones
+GitHub es una plataforma para almacenar y compartir proyectos
